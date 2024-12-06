@@ -10,3 +10,7 @@ Clone the repository and run:
 npm install
 npm run build
 ```
+
+## See Also
+
+[Alanimdeo/cgbi](https://github.com/Alanimdeo/cgbi) - A library for converting CgBI(PNG image format modified by Apple) from/to standard PNG.
